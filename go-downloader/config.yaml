@@ -1,0 +1,13 @@
+urls:
+  - "https://github.com/Spring691/dawn/releases/download/v1.1.1/Futamata.Ren.ai.part1.rar"
+  - "https://github.com/Spring691/dawn/releases/download/v1.1.1/Futamata.Ren.ai.part2.rar"
+
+accelerate_prefix: "https://ghf.xn--eqrr82bzpe.top/"  # GitHub加速链接
+enable_accelerate: true    
+
+output_dir: "D:\\download"          # 或 Linux: /home/user/downloads
+max_retries: 3                      # 重试次数
+proxy: ""                           # 如 "http://127.0.0.1:7890"
+buffer_size: 16777216               # 16 MB
+progress_interval: 0.5                # 进度刷新间隔（秒）
+concurrency: 3                      # 并发数
